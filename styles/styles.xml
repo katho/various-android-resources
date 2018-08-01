@@ -1,0 +1,27 @@
+<style name="BlackAndWhite" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="OutOfBlue" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#0000FF</item>
+    </style>
+
+    <style name="VelvetRed" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#D52D26</item>
+    </style>
+
+    <style name="Strawberry" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#DA3C32</item>
+    </style>
+
+    <style name="NeonPink" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF654A</item>
+    </style>
+
+    <style name="Melon" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFB170</item>
+    </style>
+
+    <style name="KindOfSkin" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFC893</item>
+    </style>
